@@ -32,15 +32,15 @@ terminal-border: "0"
 }
 
 # Show a countdown message using the label component
-+ progress_bar {
-        id = "__timeout__"
-        top = 80%
-        left = 30%
-        width = 40%
-        border_color= "#71c9ce"
-        bg_color= "#a6e3e9"
-        fg_color="#8785a2"
-        text = "高亮显示的启动项将在 %d 秒后执行..."
-        font = "DIN 2014 Regular 20"
-        text_color = "#fff"
-}
+##+ progress_bar {
+##        id = "__timeout__"
+##        top = 80%
+##        left = 30%
+##        width = 40%
+##        border_color= "#71c9ce"
+##        bg_color= "#a6e3e9"
+##        fg_color="#8785a2"
+##        text = "高亮显示的启动项将在 %d 秒后执行..."
+##        font = "DIN 2014 Regular 20"
+##        text_color = "#fff"
+##}
